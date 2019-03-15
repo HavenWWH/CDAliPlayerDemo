@@ -1,0 +1,18 @@
+PODS:
+  - AliyunPlayer_iOS/AliyunPlayerSDK (3.4.9)
+  - AliyunPlayer_iOS/AliyunVodPlayerSDK (3.4.9):
+    - AliyunPlayer_iOS/AliyunPlayerSDK
+
+DEPENDENCIES:
+  - AliyunPlayer_iOS/AliyunVodPlayerSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AliyunPlayer_iOS
+
+SPEC CHECKSUMS:
+  AliyunPlayer_iOS: 5704f564e0c041668138a604ebff31ecb13fe7d3
+
+PODFILE CHECKSUM: b12c23051e35c07abd53cc9541e232d9f6fd159a
+
+COCOAPODS: 1.7.0.beta.1

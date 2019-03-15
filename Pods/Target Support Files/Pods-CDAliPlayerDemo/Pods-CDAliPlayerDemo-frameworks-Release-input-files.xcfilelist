@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-CDAliPlayerDemo/Pods-CDAliPlayerDemo-frameworks.sh
+${PODS_ROOT}/AliyunPlayer_iOS/AliyunPlayerSDK.framework
+${PODS_ROOT}/AliyunPlayer_iOS/AliThirdparty.framework
+${PODS_ROOT}/AliyunPlayer_iOS/AliyunVodPlayerSDK.framework
